@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "grokbot-claude-relay": {
+      "command": "/home/you/.cargo/bin/grokbot-claude-relay",
+      "args": ["--as", "grok", "mcp"]
+    }
+  }
+}
